@@ -1,3 +1,6 @@
+Based on the information in your resume, here is an updated version of the Markdown content with the "Projects" section included:
+
+```markdown
 # Manjot Singh
 
 ### Senior Software Engineer
@@ -16,17 +19,41 @@ I am a highly experienced Senior Software Engineer with over a decade of experie
   Yara Digital Farming India Private Limited (May 2023 - Present)  
   Leading a team of engineers, implementing pixel-perfect UIs, managing CI/CD setup, and integrating Node.js microservices.
 
-- **Software Engineer**  
-  VIENNA Advantage (2019 - 2023)  
-  Worked on large-scale enterprise solutions, mobile and web application development, and cloud service integration.
+- **Senior Software Developer**  
+  VIENNA Advantage (Mar 2021 - May 2023)  
+  Developed and tested new features, integrated third-party APIs, and led the development of mobile and web applications.
 
 - **Software Developer**  
-  Cyber Space Technologies (2016 - 2019)  
-  Developed mobile applications and contributed to the company's web development projects.
+  Cyber Space Technologies (Mar 2018 - Mar 2021)  
+  Developed and maintained React Native apps, created REST APIs, and deployed web apps on cloud platforms.
 
-- **Junior Developer**  
-  S2H Systems (2014 - 2016)  
-  Assisted in developing small applications and gained experience in API integration.
+- **Software Developer**  
+  S2H Systems (Jul 2013 - Jan 2018)  
+  Developed and maintained PHP web applications with deep integrations into SMS and voice calling APIs.
+
+---
+
+## Projects
+
+### [AtFarm - Yara](https://play.google.com/store/apps/details?id=com.yara.atfarm)
+**Description:** AtFarm is used by millions of farmers worldwide to apply nitrogen with precision and make better decisions on their farm. The app also connects with N-sensor through Bluetooth. I lead the engineering team for the AtFarm mobile app.  
+**Technologies:** React Native, Bluetooth integration
+
+### [ViennaAdvantage App](https://play.google.com/store/apps/details?id=com.viennaadvantage)
+**Description:** Mobile app replicating the basic features of Vienna Advantage ERP. I developed many modules from scratch, such as OTA updates, Twilio calling, digital signature, document management system, external file sharing, push alerts, appointment system, and more.  
+**Technologies:** React Native, OTA updates, Twilio, Digital Signatures
+
+### [Micron ERP and App](https://micronerp.com)
+**Description:** ERP for educational institutions built using multiple technologies like PHP, Node.js, Firebase, MySQL, and GCP. I also developed mobile apps for Micron using React Native. This successful project has 50,000+ users.  
+**Technologies:** PHP, Node.js, Firebase, React Native, GCP
+
+### [Alorgarve App](https://play.google.com/store/apps/details?id=com.aloegarve)
+**Description:** Discount Coupons App built using React Query and Valtio. These are two of the latest libraries for React Native, performing much better than Redux.  
+**Technologies:** React Query, Valtio, React Native
+
+### [Field Service App](https://play.google.com/store/apps/details?id=com.viennaadvantage.fieldservice)
+**Description:** Field service app for Vienna Advantage ERP, built from the ground up. I served as the lead developer on this project.  
+**Technologies:** React Native, ERP integration
 
 ---
 
@@ -39,3 +66,13 @@ I am a highly experienced Senior Software Engineer with over a decade of experie
 ---
 
 &copy; 2024 Manjot Singh
+```
+
+### Steps to Update Your GitHub Pages:
+1. **Replace the Placeholder Content:**
+   - Copy the updated Markdown content into your `index.md` or `README.md` file in your GitHub repository.
+
+2. **Commit Changes:**
+   - Commit the updated file to your repository. Your GitHub Pages site will automatically reflect the changes.
+
+This updated version of your portfolio will now showcase your projects along with your professional experience and contact information. If you need any more updates or changes, feel free to ask!
