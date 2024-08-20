@@ -58,7 +58,7 @@ I am a highly experienced Senior Software Engineer with over a decade of experie
 
 - **Email**: [manjotdhiman@gmail.com](mailto:manjotdhiman@gmail.com)
 - **Phone**: +91-9041597749
-- **LinkedIn**: [linkedin.com/in/manjotsingh](https://www.linkedin.com/in/manjotsingh)
+- **LinkedIn**: [linkedin.com/in/manjotdhiman](https://www.linkedin.com/in/manjotdhiman)
 
 ---
 
