@@ -1,6 +1,3 @@
-Based on the information in your resume, here is an updated version of the Markdown content with the "Projects" section included:
-
-```markdown
 # Manjot Singh
 
 ### Senior Software Engineer
@@ -66,13 +63,3 @@ I am a highly experienced Senior Software Engineer with over a decade of experie
 ---
 
 &copy; 2024 Manjot Singh
-```
-
-### Steps to Update Your GitHub Pages:
-1. **Replace the Placeholder Content:**
-   - Copy the updated Markdown content into your `index.md` or `README.md` file in your GitHub repository.
-
-2. **Commit Changes:**
-   - Commit the updated file to your repository. Your GitHub Pages site will automatically reflect the changes.
-
-This updated version of your portfolio will now showcase your projects along with your professional experience and contact information. If you need any more updates or changes, feel free to ask!
