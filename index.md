@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer
 
-<img src="35x45mm0003.JPG" alt="drawing" width="200"/>
+<img src="35x45mm0003.JPG" alt="drawing" tyle="float: right;" width="200"/>
 ---
 
 ## About Me
