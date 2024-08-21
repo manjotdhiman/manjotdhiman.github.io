@@ -2,8 +2,7 @@
 
 ### Senior Software Engineer
 
-![Manjot Singh](35x45mm0003.JPG)
-
+<img src="35x45mm0003.JPG" alt="drawing" width="200"/>
 ---
 
 ## About Me
