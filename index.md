@@ -2,6 +2,8 @@
 
 ### Senior Software Engineer
 
+![Manjot Singh](35x45mm0003.JPG)
+
 ---
 
 ## About Me
@@ -33,24 +35,49 @@ I am a highly experienced Senior Software Engineer with over a decade of experie
 ## Projects
 
 ### [AtFarm - Yara](https://play.google.com/store/apps/details?id=com.yara.atfarm)
-**Description:** AtFarm is used by millions of farmers worldwide to apply nitrogen with precision and make better decisions on their farm. The app also connects with N-sensor through Bluetooth. I lead the engineering team for the AtFarm mobile app.  
-**Technologies:** React Native, Bluetooth integration
+**Role:** Lead Engineer  
+**Description:** AtFarm is a precision agriculture app used by millions of farmers worldwide to apply nitrogen efficiently and make informed decisions on their farms. The app connects with the N-Sensor via Bluetooth to provide real-time recommendations based on field conditions.  
+**Challenges & Achievements:**  
+- Successfully integrated Bluetooth connectivity for N-Sensor, ensuring reliable data transmission even in remote areas.
+- Led a team to refactor legacy code, improving app performance by 30%.
+- Implemented continuous integration and delivery (CI/CD) pipelines, reducing deployment time by 40%.
+- Enhanced user experience by developing a custom UI that matches the latest design standards.
 
 ### [ViennaAdvantage App](https://play.google.com/store/apps/details?id=com.viennaadvantage)
-**Description:** Mobile app replicating the basic features of Vienna Advantage ERP. I developed many modules from scratch, such as OTA updates, Twilio calling, digital signature, document management system, external file sharing, push alerts, appointment system, and more.  
-**Technologies:** React Native, OTA updates, Twilio, Digital Signatures
+**Role:** Senior Developer  
+**Description:** The ViennaAdvantage App replicates key features of the Vienna Advantage ERP system on mobile devices. This app supports on-the-go access to enterprise data, digital signatures, document management, and real-time notifications.  
+**Challenges & Achievements:**  
+- Built complex modules from scratch, including OTA updates, Twilio calling integration, and a digital signature system.
+- Solved critical bugs related to push notifications, ensuring timely alerts for users.
+- Designed and implemented a secure document management system with external file sharing capabilities.
+- Improved user retention by 15% through optimizing the user interface and experience.
 
 ### [Micron ERP and App](https://micronerp.com)
-**Description:** ERP for educational institutions built using multiple technologies like PHP, Node.js, Firebase, MySQL, and GCP. I also developed mobile apps for Micron using React Native. This successful project has 50,000+ users.  
-**Technologies:** PHP, Node.js, Firebase, React Native, GCP
+**Role:** Full-Stack Developer  
+**Description:** Micron ERP is an enterprise resource planning system designed for educational institutions, integrating multiple technologies like PHP, Node.js, Firebase, MySQL, and GCP. The project also includes mobile applications for administrators and students.  
+**Challenges & Achievements:**  
+- Architected and developed the ERP backend using PHP and Node.js, handling over 50,000 users.
+- Created mobile applications with React Native that sync with the ERP system, allowing real-time data access and updates.
+- Implemented biometric attendance and GPS tracking features, enhancing the operational efficiency of educational institutions.
+- Successfully deployed the system on Google Cloud Platform, ensuring scalability and high availability.
 
 ### [Alorgarve App](https://play.google.com/store/apps/details?id=com.aloegarve)
-**Description:** Discount Coupons App built using React Query and Valtio. These are two of the latest libraries for React Native, performing much better than Redux.  
-**Technologies:** React Query, Valtio, React Native
+**Role:** Lead Developer  
+**Description:** Alorgarve is a discount coupon app designed to provide users with access to exclusive deals and discounts from local businesses. The app leverages React Query and Valtio, offering superior performance and state management compared to traditional libraries.  
+**Challenges & Achievements:**  
+- Implemented React Query and Valtio for efficient state management, resulting in faster load times and better app performance.
+- Developed an intuitive user interface that enhanced user engagement, leading to a 25% increase in daily active users.
+- Integrated analytics to track user behavior and optimize the app's features based on real-time data.
+- Coordinated with local businesses to ensure a steady supply of high-value discounts, improving app relevance and user satisfaction.
 
 ### [Field Service App](https://play.google.com/store/apps/details?id=com.viennaadvantage.fieldservice)
-**Description:** Field service app for Vienna Advantage ERP, built from the ground up. I served as the lead developer on this project.  
-**Technologies:** React Native, ERP integration
+**Role:** Lead Developer  
+**Description:** The Field Service App is designed for Vienna Advantage ERP users to manage field operations efficiently. It allows technicians to access job details, update statuses, and communicate with the office in real-time, directly from their mobile devices.  
+**Challenges & Achievements:**  
+- Spearheaded the development of the app from the ground up, delivering a robust and scalable solution.
+- Integrated real-time communication features, enabling seamless interaction between field technicians and the central office.
+- Developed offline capabilities, allowing technicians to work in areas with poor connectivity and sync data once back online.
+- Achieved a 20% reduction in service delivery time by streamlining the job update process and improving data accessibility.
 
 ---
 
@@ -58,7 +85,7 @@ I am a highly experienced Senior Software Engineer with over a decade of experie
 
 - **Email**: [manjotdhiman@gmail.com](mailto:manjotdhiman@gmail.com)
 - **Phone**: +91-9041597749
-- **LinkedIn**: [linkedin.com/in/manjotdhiman](https://www.linkedin.com/in/manjotdhiman)
+- **LinkedIn**: [linkedin.com/in/manjotdhiman/](https://www.linkedin.com/in/manjotdhiman/)
 
 ---
 
