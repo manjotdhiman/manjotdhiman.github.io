@@ -1,6 +1,6 @@
-# Manjot Singh - Full-stack Developer
+# Manjot Singh - Software Engineer
 
-### Senior Software Engineer
+### Full-stack Developer
 
 ## <img src="photo.png" alt="drawing" style="float: right;" width="200"/>
 
